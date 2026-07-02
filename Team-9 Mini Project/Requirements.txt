@@ -1,0 +1,13 @@
+Tools & Technologies Used
+1. Python
+2. Jupyter Notebook / Google Colab
+3. Pandas
+4. NumPy
+5. Matplotlib
+6. Seaborn
+7. Scikit-learn
+
+
+Machine Learning Algorithms
+1. Logistic Regression
+2. Random Forest Classifier
